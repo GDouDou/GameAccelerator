@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/background.png</file>
+        <file>Resources/setting.png</file>
+        <file>Resources/aboutZhouYou.png</file>
+        <file>Resources/systemSetting.png</file>
+        <file>Resources/feedBack.png</file>
+        <file>Resources/add.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/exitLogin.png</file>
+        <file>Resources/switchAccount.png</file>
+        <file>Resources/game.png</file>
+        <file>Resources/jiaSu.png</file>
+        <file>Resources/phone.png</file>
+        <file>Resources/password.png</file>
+        <file>Resources/stationInfo.png</file>
+        <file>Resources/tagRead.png</file>
+    </qresource>
+</RCC>
